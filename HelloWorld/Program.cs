@@ -4,6 +4,6 @@
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello 2");
-        Console.WriteLine("Kolejna linia");
+        Console.WriteLine("Kolejne linie");
     }
 }
