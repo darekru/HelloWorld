@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    internal class Test
+    internal class NewClass
     {
-        public void PrintSomething()
-        {
-            Console.WriteLine("to jest klasa TEST");
-        }
-      
     }
 }
