@@ -11,6 +11,7 @@ namespace HelloWorld
         public void PrintSomething()
         {
             Console.WriteLine("to jest klasa TEST");
+            Console.WriteLine("druga linia klasy TEST");
         }
       
     }
